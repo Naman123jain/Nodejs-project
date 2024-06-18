@@ -47,3 +47,7 @@ This is a Node.js application with an Express.js API endpoint that fetches speci
 
 ```http
 GET /api/getVendorUsers?prId=1&custOrgId=2
+
+
+![Uploading image.png…]()
+
