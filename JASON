@@ -1,0 +1,12 @@
+[
+    {
+        "supplierId": "123",
+        "UserName": "admin1",
+        "Name": "Admin User 1"
+    },
+    {
+        "supplierId": "456",
+        "UserName": "admin2",
+        "Name": "Admin User 2"
+    }
+]
